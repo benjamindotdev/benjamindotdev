@@ -7,14 +7,14 @@ Full-stack JavaScript developer in Berlin building product MVPs, integrations, a
 - Contact: hello@benjamin.dev · benjamin.dev · LinkedIn: /in/benjamindotdev
 
 ## Selected work
-- **StackSync** — CLI/tooling that scans repos to generate stack manifests + README sections.  
-  Repo: https://github.com/benjamindotdev/stacksync
-
 - **Shep (case study)** — Financial data aggregation (QuickBooks/Xero/Sheets), SSR rebuild, deterministic insights.  
   Case study: https://github.com/benjamindotdev/shep-case-study
 
-- **Client work (case study)** — sh.coach (Vite/TS/Tailwind) + SolitaireDaily (Next.js).  
+  - **Client work (case study)** — sh.coach (Vite/TS/Tailwind) + SolitaireDaily (Next.js).  
   Case studies: https://github.com/benjamindotdev/sh-case-study & https://github.com/benjamindotdev/solitaire-case-study
+  
+- **StackSync** — CLI/tooling that scans repos to generate stack manifests + README sections.  
+  Repo: https://github.com/benjamindotdev/stacksync
 
 - **EckeSchnecke** — Berlin address path → generative SVG badge concept.  
   Repo: https://github.com/benjamindotdev/eckeschnecke
