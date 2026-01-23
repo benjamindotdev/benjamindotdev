@@ -34,11 +34,12 @@ Clean, performant implementation of classic solitaire variants using Next.js. Em
 #### Case study: https://github.com/benjamindotdev/solitaire-case-study
 
 ## Developer Tools & Experiments
-### StackSync
+### StackScan
 
 CLI/tooling that scans repositories to generate stack manifests and update README sections automatically. Built for developers who want accurate, low-maintenance portfolios.
 
-#### Repo: https://github.com/benjamindotdev/stacksync
+#### Repo: https://github.com/benjamindotdev/stackscan
+#### NPM: https://www.npmjs.com/package/stackscan
 
 ### EckeSchnecke
 
