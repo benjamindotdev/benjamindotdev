@@ -14,20 +14,20 @@ hello@benjamin.dev
  · https://linkedin.com/in/benjamindotdev
 
 ## Selected Work
-### Shep — Financial data aggregation & insights (Case Study)
+### Shep — Financial data aggregation & insights
 
 Aggregates financial data from QuickBooks, Xero, and Google Sheets into a unified view of current and projected cashflow. Led an SSR rebuild and implemented deterministic, rule-based insights (no AI hallucinations).
 
 #### Case study: https://github.com/benjamindotdev/shep-case-study
 
 ## Client Work
-### sh.coach — Leadership coaching website (Case Study)
+### https://sh.coach — Leadership coaching website
 
 Modern, responsive client site built with Vite, TypeScript, and Tailwind. Focus on clarity, performance, and long-term maintainability.
 
 #### Case study: https://github.com/benjamindotdev/sh-case-study
 
-### SolitaireDaily — Web-based solitaire platform (Case Study)
+### https://solitairedaily.com — Web-based solitaire platform
 
 Clean, performant implementation of classic solitaire variants using Next.js. Emphasis on accurate rules, smooth interactions, and usability.
 
